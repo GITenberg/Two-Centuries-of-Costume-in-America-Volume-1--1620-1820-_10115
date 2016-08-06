@@ -1,0 +1,25 @@
+_repo: Two-Centuries-of-Costume-in-America-Volume-1--1620-1820-_10115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress -- United States -- History'
+- !lcc 'GT'
+- GITenberg
+title: Two Centuries of Costume in America, Volume 1 (1620-1820)
+url: http://www.gutenberg.org/ebooks/10115
